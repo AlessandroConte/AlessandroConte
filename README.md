@@ -14,6 +14,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -23,16 +24,12 @@
 ## 📌 Projects
 
 - 🧮 **Composite Forecast Error Metric** – Custom metric combining RMSE, MAE, MAPE, MASE to compare time series models  
-- 🧪 **Ensemble Learning** – Implemented bagging and boosting techniques, analyzed bias-variance tradeoff
+- 🧠 **Stroke Prediction** - Developing a supervised machine learning model to predict stroke risk using health indicators.
+- 🧪 **Ensemble Learning** – Implemented and compared Bagging and Boosting models on real-world datasets using Decision Trees.
 
 ---
 
 ## 🚧 Ongoing Projects
-
-- 🧠 **Stroke Prediction**  
-  Developing a supervised machine learning model to predict stroke risk using health indicators.  
-  Focus on class imbalance handling, feature importance, and interpretability.  
-  _Tools used: Pandas, Scikit-learn, Matplotlib, XGBoost_
 
 ---
 
