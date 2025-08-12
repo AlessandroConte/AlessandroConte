@@ -31,7 +31,7 @@
 
 ## 🚧 Ongoing Projects
 
-- 🏭 Green City Dashboard – Padua: A data analytics project focusing on air quality analysis and interactive reporting using SQL and Power BI.
+- 📊 Green City Dashboard – Padua: A data analytics project focusing on air quality analysis and interactive reporting using SQL and Power BI.
 ---
 
 ## 🌐 Connect with me
